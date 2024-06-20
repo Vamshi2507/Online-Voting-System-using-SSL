@@ -1,0 +1,4 @@
+Candidate A (Symbol: A)
+Candidate B (Symbol: B)
+Candidate C (Symbol: C)
+Candidate D (Symbol: D)
